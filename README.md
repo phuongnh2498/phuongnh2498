@@ -1,4 +1,4 @@
-<img src="image/phuongnh29.svg" width="1200" alt="phuongnh29" />
+<img src="images/phuongnh29.svg" width="1200" alt="phuongnh29" />
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
